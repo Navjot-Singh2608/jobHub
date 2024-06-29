@@ -66,3 +66,5 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
     </View>
   );
 };
+
+export default Welcome;
